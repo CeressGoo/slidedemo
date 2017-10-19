@@ -32,6 +32,8 @@ class: center, middle
 
 ![](http://imgsrc.baidu.com/forum/w%3D580/sign=668851129958d109c4e3a9bae159ccd0/7683470a19d8bc3e0ae934a6898ba61ea9d345ff.jpg)
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
+
 ---
 
 ## 兴趣爱好
