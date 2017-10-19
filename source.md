@@ -28,7 +28,7 @@ class: center, middle
 
 ** myself **
 
-< img src="http://a1.qpic.cn/psb?/V13ECEML3atwkp/c3Tn9NcbIxZvDNpolOjNzakZ4sE6s6k0EXVtm1pRbtQ!/b/dGwBAAAAAAAA&ek=1&kp=1&pt=0&bo=wAOAAgAAAAAREGY!&su=025587697&tm=1508382000&sce=0-12-12&rf=2-9" width=640 style="margin: 0px 80px">
+< img src="http://imgsrc.baidu.com/forum/w%3D580/sign=668851129958d109c4e3a9bae159ccd0/7683470a19d8bc3e0ae934a6898ba61ea9d345ff.jpg" width=640 style="margin: 0px 80px">
 
 ---
 
