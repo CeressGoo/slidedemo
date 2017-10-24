@@ -28,10 +28,10 @@ class: center, middle
 
 ---
 
-** myself **    
-暑假，    
-在庐山山顶拍的照片    
-
+** myself **   
+暑假，  
+在庐山山顶拍的照片 
+~
 ![](http://imgsrc.baidu.com/forum/w%3D580/sign=668851129958d109c4e3a9bae159ccd0/7683470a19d8bc3e0ae934a6898ba61ea9d345ff.jpg)
 
 ---
